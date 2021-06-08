@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  margin: auto;
+  max-width: 500px;
+  padding: 2rem;
+}
+
+.button {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem;
+  border-radius: 0.3rem;
+}
+
+.output {
+  /* padding: 0.5rem;
+  border: solid 1px;
+  border-style: groove;
+  
+  height: 50;
+  margin: 0.5rem; */
+
+  text-align: left;
+}
+
+.movieList {
+  padding: 1rem;
+  margin: 1rem 0rem;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  display: block;
+  width: 80%;
+  background-color: #f3f4f6;
+}
